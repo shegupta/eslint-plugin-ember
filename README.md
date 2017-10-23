@@ -88,6 +88,13 @@ The `--fix` option on the command line automatically fixes problems reported by 
 | :white_check_mark: | [no-on-calls-in-components](./docs/rules/no-on-calls-in-components.md) | Prevents usage of `on` calls in components |
 
 
+### Services
+
+|    | Rule ID | Description |
+|:---|:--------|:------------|
+| :white_check_mark: | [avoid-leaking-state-in-services](./docs/rules/avoid-leaking-state-in-services.md) | Avoids state leakage |
+
+
 ### General
 
 |    | Rule ID | Description |
